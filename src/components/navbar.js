@@ -27,9 +27,9 @@ class Navbar1 extends Component {
                         <Nav.Link href="#link">Contact</Nav.Link>
                     </Nav>
                     <div className="d-flex">
-                        <Nav.Link className='ms-3'><FaTwitter></FaTwitter></Nav.Link>
-                        <Nav.Link className='ms-3'><FaFacebook></FaFacebook></Nav.Link>
-                        <Nav.Link className='ms-3'><FaLinkedin></FaLinkedin></Nav.Link>
+                        <Nav.Link className='ms-3'><FaTwitter size={33}></FaTwitter></Nav.Link>
+                        <Nav.Link className='ms-3'><FaFacebook size={33}></FaFacebook></Nav.Link>
+                        <Nav.Link className='ms-3'><FaLinkedin size={33}></FaLinkedin></Nav.Link>
                     </div>
                     </Navbar.Collapse>
                 </Container>
