@@ -26,7 +26,7 @@ class Navbar1 extends Component {
                         <Nav.Link href="#link">About</Nav.Link>
                         <Nav.Link href="#link">Contact</Nav.Link>
                     </Nav>
-                    <div className="d-flex">
+                    <div className="d-flex justify-content-center">
                         <Nav.Link className='ms-3'><FaTwitter size={33}></FaTwitter></Nav.Link>
                         <Nav.Link className='ms-3'><FaFacebook size={33}></FaFacebook></Nav.Link>
                         <Nav.Link className='ms-3'><FaLinkedin size={33}></FaLinkedin></Nav.Link>

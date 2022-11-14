@@ -172,6 +172,12 @@
     letter-spacing: 0.2px;
     color: #252B42;
   }
+  .footer h3{
+    text-align: center;
+  }
+  .footer div div div{
+    text-align: center;
+  }
 }
 
 .features{
@@ -218,4 +224,27 @@
   line-height: 23px;
   letter-spacing: 0.1px;
   color: #374754;
+}
+.footer{
+  background-color: #252B42;
+  padding: 150px 0px;
+}
+
+.footer h3{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+  letter-spacing: 0.1px;
+  color: white;
+}
+
+.footer a{
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 28px;
+  letter-spacing: 0.2px;
+  color: white;
+  text-decoration: none;
 }

@@ -13,7 +13,7 @@ class ContactUs extends Component {
     }
     render() { 
         return ( 
-            <Container className='contactus'>
+            <Container className='contactus mb-5'>
                 <Container className='d-flex flex-column align-items-center mb-5'>
                     <h2>Contact Us</h2>
                     <h4 className='mt-4 mb-4'>Most calendars are designed for teams.<span> Slate is designed for freelancers</span></h4>
