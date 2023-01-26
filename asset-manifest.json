@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Figma-LP-clone/static/css/main.2fd7320b.css",
+    "main.js": "/Figma-LP-clone/static/js/main.a730721a.js",
+    "static/js/787.15af241e.chunk.js": "/Figma-LP-clone/static/js/787.15af241e.chunk.js",
+    "static/media/main.png": "/Figma-LP-clone/static/media/main.2775aafc1cedb520d57d.png",
+    "index.html": "/Figma-LP-clone/index.html",
+    "main.2fd7320b.css.map": "/Figma-LP-clone/static/css/main.2fd7320b.css.map",
+    "main.a730721a.js.map": "/Figma-LP-clone/static/js/main.a730721a.js.map",
+    "787.15af241e.chunk.js.map": "/Figma-LP-clone/static/js/787.15af241e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2fd7320b.css",
+    "static/js/main.a730721a.js"
+  ]
+}
